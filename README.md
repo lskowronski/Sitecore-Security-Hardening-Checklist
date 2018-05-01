@@ -29,6 +29,7 @@ Checklist of things to validate to make Sitecore instances better secured
 22. [ ] Have you removed the X-Aspnet-Version HTTP header from responses sent by you servers?
 23. [ ] Have you removed the X-Powered-By HTTP header from responses sent by you servers?
 24. [ ] Have you removed the X-AspNetMvc-Version HTTP header from responses sent by you servers?
+25. [ ] Are you sure that all extensions like SPE (Sitecore PowerShell Extensions) or Unicorn are disabled on Content Delivery servers?
 
 # Additional information
 
