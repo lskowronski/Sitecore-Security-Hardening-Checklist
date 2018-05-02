@@ -30,6 +30,14 @@ Checklist of things to validate to make Sitecore instances better secured
 23. [ ] Have you removed the X-Powered-By HTTP header from responses sent by you servers?
 24. [ ] Have you removed the X-AspNetMvc-Version HTTP header from responses sent by you servers?
 25. [ ] Are you sure that all extensions like SPE (Sitecore PowerShell Extensions) or Unicorn are disabled on Content Delivery servers?
+26. [ ] Have you set correctly security rights & roles to ensure that users will be available to access and change only what was prepared for them? 
+27. [ ] Have you got prepared and enabled custom error page which will hide real reasons of errors? 
+28. [ ] Do you use client's license file?
+29. [ ] Have you turned off the debug mode of your application?
+30. [ ] Have you got set automatic backups and tested plan for recovery of environment?
+31. [ ] Are you sure that you know who has administrator status and they are the right people?
+32. [ ] ...
+33. [ ] Share with Sitecore community other points which are worth to check 
 
 # Additional information
 
